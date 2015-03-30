@@ -9,7 +9,7 @@
     window.APP = {
       models: {
         home: {
-          title: 'Home'
+          title: 'Homehhggggh'
         },
         settings: {
           title: 'Settings'
